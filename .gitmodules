@@ -1,0 +1,3 @@
+[submodule "Plugins/VRChairPlugin"]
+	path = Plugins/VRChairPlugin
+	url = https://github.com/RTUITLab/UEChairPlugin.git
