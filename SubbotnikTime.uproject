@@ -14,6 +14,10 @@
 		{
 			"Name": "VRChairPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "LiveLinkViconDataStream",
+			"Enabled": false
 		}
 	]
 }
